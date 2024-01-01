@@ -1,0 +1,16 @@
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\bin\Debug\net7.0-windows\TicTacToeWindForm.exe
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\bin\Debug\net7.0-windows\TicTacToeWindForm.deps.json
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\bin\Debug\net7.0-windows\TicTacToeWindForm.runtimeconfig.json
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\bin\Debug\net7.0-windows\TicTacToeWindForm.dll
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\bin\Debug\net7.0-windows\TicTacToeWindForm.pdb
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.TicTacToe.resources
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.csproj.GenerateResource.cache
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.AssemblyInfoInputs.cache
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.AssemblyInfo.cs
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.csproj.CoreCompileInputs.cache
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.dll
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\refint\TicTacToeWindForm.dll
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.pdb
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\TicTacToeWindForm.genruntimeconfig.cache
+C:\Users\Massi\Desktop\TicTacToeWindForm\TicTacToeWindForm\obj\Debug\net7.0-windows\ref\TicTacToeWindForm.dll
